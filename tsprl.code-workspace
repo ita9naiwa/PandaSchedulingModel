@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "/Users/ita/code/rrr"
+		}
+	],
+	"settings": {
+
+		"sync-rsync.sites": [
+			{
+				"localPath": "/Users/ita/code/rrr",
+				"remotePath": "115.145.178.111:~/code/rrr"
+			}
+		//"sync-rsync.onSaveIndividual": false,
+
+
+	}
+}

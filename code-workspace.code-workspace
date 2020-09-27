@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+
+		"sync-rsync.sites": [
+			{
+				"localPath": "/Users/kakao/code/tsprl",
+				"remotePath": "ita@115.145.175.63:~/code/tsprl"
+			}
+		],
+		"sync-rsync.onSaveIndividual": true
+	}
+}

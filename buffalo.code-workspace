@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+
+		"sync-rsync.sites": [
+			{
+				"localPath": "/Users/kakao/code/buffalo",
+				"remotePath": "ita@115.145.175.63:~/code/buffalo"
+			}
+		],
+		"sync-rsync.onSaveIndividual": true
+	}
+}
